@@ -16,8 +16,18 @@
 - **CSS**: For styling the website to enhance its appearance and user experience.
 - **JavaScript**: For implementing dynamic functionality and interactivity on the website.
 - **Bootstrap**: For responsive design and pre-styled components to speed up development.
+
+## Azure Tech Stack Used:
+![resource](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/d847f7dd-0731-4dd1-8db6-f289194863f8)
+
 - **Azure Static Web Apps**: For hosting the website, providing scalability, security, and global reach.
+- ![Static Web App](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/c2f70fa1-f498-45a8-8a02-fbd7b87f1e53)
+
 - **Azure Health Bot**: For offering intelligent, conversational AI capabilities to users.
+- ![Health Bot](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/133c7d51-9fac-45bb-8b7a-f4a84b238e6d)
+
+- **Azure Maps**: For representing the map of the office of the location
+![Azure Maps](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/e67c39fa-0bd7-4a15-9a6d-b4e7dca67763)
 
 ## Setup Instructions
 
@@ -56,7 +66,7 @@ The project is hosted using Azure Static Web Apps. To deploy any updates, follow
 
 - **Navigate through the website** to explore different sections such as Home, About, Services, and Contact.
 - **Use the Health Bot** by clicking on the chat icon to get instant assistance with your health-related queries.
-- **Find and call doctors** by browsing the list of available healthcare professionals and selecting the one that matches your needs.
+- **Call doctors** Call us anytime to book a doctor by just sitting at one's home.
 
 ## Contributing
 
