@@ -21,10 +21,10 @@
 ![resource](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/d847f7dd-0731-4dd1-8db6-f289194863f8)
 
 - **Azure Static Web Apps**: For hosting the website, providing scalability, security, and global reach.
-- ![Static Web App](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/c2f70fa1-f498-45a8-8a02-fbd7b87f1e53)
+  ![Static Web App](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/c2f70fa1-f498-45a8-8a02-fbd7b87f1e53)
 
 - **Azure Health Bot**: For offering intelligent, conversational AI capabilities to users.
-- ![Health Bot](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/133c7d51-9fac-45bb-8b7a-f4a84b238e6d)
+  ![Health Bot](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/133c7d51-9fac-45bb-8b7a-f4a84b238e6d)
 
 - **Azure Maps**: For representing the map of the office of the location
 ![Azure Maps](https://github.com/mohakrudrakshh/frtAzureProject/assets/160280438/e67c39fa-0bd7-4a15-9a6d-b4e7dca67763)
